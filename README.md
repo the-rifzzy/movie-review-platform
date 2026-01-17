@@ -79,6 +79,13 @@ movie-review-platform/
 
 > Note: These credentials are for demo/testing purposes only.
 
+## 📸 Screenshots
+Login page:
+<img width="1366" height="768" alt="Screenshot 2026-01-17 9 48 40 AM" src="https://github.com/user-attachments/assets/46ebf38f-f50c-4878-a340-dd9cb96fb206" />
+
+Movies & Review Section – User Reviews:
+<img width="1366" height="768" alt="Screenshot 2026-01-17 9 49 20 AM" src="https://github.com/user-attachments/assets/a34ed8a7-0778-4ea5-b5f7-a10892ab0040" />
+
 ## 📈 Use Cases
 
 * Movie review platforms
